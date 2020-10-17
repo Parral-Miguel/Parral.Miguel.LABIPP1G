@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1602894052 source:c:\users\parra\desktop\primer parcial parral 1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+
+1602895738 c:\users\parra\desktop\primer parcial parral 1g\funciones.h
+
+1602894053 source:c:\users\parra\desktop\primer parcial parral 1g\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+
+1602895181 source:c:\users\parra\desktop\primer parcial parral 1g\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+
+1602895166 c:\users\parra\desktop\primer parcial parral 1g\colores.h
+
+1602895167 c:\users\parra\desktop\primer parcial parral 1g\tipos.h
+
+1602895738 c:\users\parra\desktop\primer parcial parral 1g\mascotas.h
+
+1602895738 c:\users\parra\desktop\primer parcial parral 1g\servicios.h
+
+1602894053 c:\users\parra\desktop\primer parcial parral 1g\trabajos.h
+
+1602894299 source:c:\users\parra\desktop\primer parcial parral 1g\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+
+1602895192 source:c:\users\parra\desktop\primer parcial parral 1g\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+
+1602894053 source:c:\users\parra\desktop\primer parcial parral 1g\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+
+1602895029 source:c:\users\parra\desktop\primer parcial parral 1g\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+
