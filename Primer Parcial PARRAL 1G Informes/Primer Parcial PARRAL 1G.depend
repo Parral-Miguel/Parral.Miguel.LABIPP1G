@@ -1,0 +1,189 @@
+# depslib dependency file v1.0
+1603501874 source:c:\users\parra\desktop\primer parcial parral 1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+	"fecha.h"
+	"cliente.h"
+	"informes.h"
+
+1603493079 c:\users\parra\desktop\primer parcial parral 1g\funciones.h
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+	"fecha.h"
+
+1603500943 source:c:\users\parra\desktop\primer parcial parral 1g\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+	"fecha.h"
+
+1603493079 source:c:\users\parra\desktop\primer parcial parral 1g\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+	"fecha.h"
+	"cliente.h"
+	"informes.h"
+
+1603484360 c:\users\parra\desktop\primer parcial parral 1g\colores.h
+
+1603484360 c:\users\parra\desktop\primer parcial parral 1g\tipos.h
+
+1603493079 c:\users\parra\desktop\primer parcial parral 1g\mascotas.h
+	"colores.h"
+	"tipos.h"
+	"cliente.h"
+
+1603484360 c:\users\parra\desktop\primer parcial parral 1g\servicios.h
+
+1603486243 c:\users\parra\desktop\primer parcial parral 1g\trabajos.h
+	"fecha.h"
+	"mascotas.h"
+	"servicios.h"
+
+1603493550 source:c:\users\parra\desktop\primer parcial parral 1g\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+	"fecha.h"
+	"cliente.h"
+	"informes.h"
+
+1603493079 source:c:\users\parra\desktop\primer parcial parral 1g\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+	"fecha.h"
+	"cliente.h"
+	"informes.h"
+
+1603493079 source:c:\users\parra\desktop\primer parcial parral 1g\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fecha.h"
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+	"cliente.h"
+	"informes.h"
+
+1603493079 source:c:\users\parra\desktop\primer parcial parral 1g\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+	"fecha.h"
+	"cliente.h"
+	"informes.h"
+
+1603429570 c:\users\parra\desktop\primer parcial parral 1g\fecha.h
+
+1603493079 source:c:\users\parra\desktop\primer parcial parral 1g\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+	"fecha.h"
+	"cliente.h"
+	"informes.h"
+
+1603491164 c:\users\parra\desktop\primer parcial parral 1g\cliente.h
+
+1603500366 source:c:\users\parra\desktop\primer parcial parral 1g\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fecha.h"
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+	"cliente.h"
+	"informes.h"
+
+1603501810 c:\users\parra\desktop\primer parcial parral 1g\informes.h
+
+1603501810 source:c:\users\parra\desktop\primer parcial parral 1g\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+	"colores.h"
+	"tipos.h"
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+	"fecha.h"
+	"cliente.h"
+	"informes.h"
+

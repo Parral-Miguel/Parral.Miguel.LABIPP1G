@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+#include <conio.h>
+#include "funciones.h"
+#include "colores.h"
+#include "tipos.h"
+#include "mascotas.h"
+#include "servicios.h"
+#include "trabajos.h"
+#include "fecha.h"
+#include "cliente.h"
+#include "informes.h"
